@@ -1,0 +1,94 @@
+@string/appbar_scrolling_view_behavior;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+alpha;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\anim\sfchart_fade_in.xml
+alpha;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\anim\sfchart_fade_out.xml
+alpha;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\anim\enterfromleft.xml
+alpha;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\flyoutcontent.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\shellcontent.xml
+androidx.recyclerview.widget.RecyclerView;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\flyoutcontent.xml
+attr;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\1\jl\res\values\values.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+bitmap;obj\Debug\90\res\drawable\splash_screen.xml
+cache-path;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\55\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\90\res\values\colors.xml
+com.google.android.material.appbar.AppBarLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;obj\Debug\90\res\layout\tabbar.xml
+Com.Syncfusion.Charts.ChartAnnotationRenderer;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartAxisRenderer;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartBehaviorRenderer;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_layout.xml
+com.syncfusion.charts.ChartLegendIconView;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_legend_item.xml
+com.syncfusion.charts.ChartLegendItemsLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_legend.xml
+Com.Syncfusion.Charts.ChartLegendLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_layout.xml
+com.syncfusion.charts.ChartLegendScrollView;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_legend.xml
+com.syncfusion.charts.ChartLegendTitleView;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_legend.xml
+Com.Syncfusion.Charts.ChartRootLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartStripLinesRenderer;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartTitle;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.GridLinesRenderer;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.SeriesRenderer;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.TechnicalIndicatorRenderer;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Rangenavigator.GridLinesRenderer;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\range_navigator_layout.xml
+Com.Syncfusion.Rangenavigator.LabelsRenderer;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\range_navigator_layout.xml
+Com.Syncfusion.Rangenavigator.ThumbRenderer;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\range_navigator_layout.xml
+declare-styleable;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\1\jl\res\values\values.xml
+enum;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\1\jl\res\values\values.xml
+external-cache-path;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\55\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\55\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_layout.xml
+FrameLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\range_navigator_layout.xml
+FrameLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\bottomtablayout.xml
+HorizontalScrollView;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_legend.xml
+item;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\1\jl\res\values\values.xml
+item;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\values\styles.xml
+item;obj\Debug\90\res\drawable\splash_screen.xml
+item;obj\Debug\90\res\values\styles.xml
+layer-list;obj\Debug\90\res\drawable\splash_screen.xml
+LinearLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_legend.xml
+LinearLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_legend_item.xml
+LinearLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\bottomtablayout.xml
+paths;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\55\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\range_navigator_layout.xml
+resources;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\googsvcsjson\values\goog_svcs_json.xml
+resources;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\1\jl\res\values\values.xml
+resources;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\values\strings.xml
+resources;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\3\jl\res\values\strings.xml
+resources;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\4\jl\res\values\strings.xml
+resources;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\values\styles.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\styles.xml
+scale;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\anim\sfchart_scale_in.xml
+scale;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\anim\sfchart_scale_out.xml
+set;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\anim\sfchart_fade_in.xml
+set;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\anim\sfchart_fade_out.xml
+set;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\anim\sfchart_scale_in.xml
+set;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\anim\sfchart_scale_out.xml
+set;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\anim\enterfromleft.xml
+set;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\anim\enterfromright.xml
+set;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\anim\exittoleft.xml
+set;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\anim\exittoright.xml
+string;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\googsvcsjson\values\goog_svcs_json.xml
+string;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\values\strings.xml
+string;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\3\jl\res\values\strings.xml
+string;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\4\jl\res\values\strings.xml
+style;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\values\styles.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\12\jl\res\layout\chart_legend_item.xml
+translate;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\anim\enterfromleft.xml
+translate;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\anim\enterfromright.xml
+translate;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\anim\exittoleft.xml
+translate;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\Aplicatie LICENTA\Aircharts\Aircharts.Android\obj\Debug\90\lp\69\jl\res\layout\rootlayout.xml

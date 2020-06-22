@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44708386233",
+    "firebase_url": "https://airchartsmusic.firebaseio.com",
+    "project_id": "airchartsmusic",
+    "storage_bucket": "airchartsmusic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44708386233:android:b4b7d44843e1e486629268",
+        "android_client_info": {
+          "package_name": "com.companyname.aircharts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44708386233-rr4hi1n07l0mjrpkfsas2g13mevtpfe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr8410rKrRCgxNKjWPyZLivhkqQ5Rm3Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44708386233-rr4hi1n07l0mjrpkfsas2g13mevtpfe8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

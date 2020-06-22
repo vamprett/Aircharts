@@ -1,0 +1,1 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"><item><bitmap android:src="@drawable/backgroundblur" android:tileMode="disabled" android:gravity="top|bottom|left|right" /></item><item android:height="200dp" android:width="200dp" android:gravity="center"><bitmap android:src="@drawable/circlelogo" /></item></layer-list>

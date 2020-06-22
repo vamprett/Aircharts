@@ -1,0 +1,260 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Aplicatie LICENTA\\Aircharts\\Aircharts.iOS\\Aircharts.iOS.csproj": {}
+  },
+  "projects": {
+    "D:\\Aplicatie LICENTA\\Aircharts\\Aircharts.iOS\\Aircharts.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aplicatie LICENTA\\Aircharts\\Aircharts.iOS\\Aircharts.iOS.csproj",
+        "projectName": "Aircharts.iOS",
+        "projectPath": "D:\\Aplicatie LICENTA\\Aircharts\\Aircharts.iOS\\Aircharts.iOS.csproj",
+        "packagesPath": "C:\\Users\\nagya\\.nuget\\packages\\",
+        "outputPath": "D:\\Aplicatie LICENTA\\Aircharts\\Aircharts.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nagya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "D:\\Aplicatie LICENTA\\Aircharts\\Aircharts\\Aircharts.csproj": {
+                "projectPath": "D:\\Aplicatie LICENTA\\Aircharts\\Aircharts\\Aircharts.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "AsyncAwaitBestPractices.MVVM": {
+              "target": "Package",
+              "version": "[4.1.1-pre1, )"
+            },
+            "Com.Airbnb.Xamarin.Forms.Lottie": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "FluentSpotifyApi.AuthorizationFlows": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "GraphQL.Client": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "GraphQL.Client.Serializer.Newtonsoft": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microcharts": {
+              "target": "Package",
+              "version": "[0.8.5-pre, )"
+            },
+            "Microcharts.Forms": {
+              "target": "Package",
+              "version": "[0.8.5-pre, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "SpotifyAPI.Web": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "SpotifyAPI.Web.Auth": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Syncfusion.Xamarin.SfChart": {
+              "target": "Package",
+              "version": "[18.1.0.53, )"
+            },
+            "Xam.Plugin.Screenshot": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Xamarin.Build.Download": {
+              "target": "Package",
+              "version": "[0.10.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.6.0.726, )"
+            },
+            "modernhttpclient-updated": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.302-beta, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Aplicatie LICENTA\\Aircharts\\Aircharts\\Aircharts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aplicatie LICENTA\\Aircharts\\Aircharts\\Aircharts.csproj",
+        "projectName": "Aircharts",
+        "projectPath": "D:\\Aplicatie LICENTA\\Aircharts\\Aircharts\\Aircharts.csproj",
+        "packagesPath": "C:\\Users\\nagya\\.nuget\\packages\\",
+        "outputPath": "D:\\Aplicatie LICENTA\\Aircharts\\Aircharts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nagya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AsyncAwaitBestPractices.MVVM": {
+              "target": "Package",
+              "version": "[4.1.1-pre1, )"
+            },
+            "Com.Airbnb.Xamarin.Forms.Lottie": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "FluentSpotifyApi.AuthorizationFlows": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "GraphQL.Client": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "GraphQL.Client.Serializer.Newtonsoft": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microcharts": {
+              "target": "Package",
+              "version": "[0.8.5-pre, )"
+            },
+            "Microcharts.Forms": {
+              "target": "Package",
+              "version": "[0.8.5-pre, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "SpotifyAPI.Web": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "SpotifyAPI.Web.Auth": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Xam.Plugin.Screenshot": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Xamarin.Build.Download": {
+              "target": "Package",
+              "version": "[0.10.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.6.0.726, )"
+            },
+            "modernhttpclient-updated": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.302-beta, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
